@@ -25,3 +25,5 @@ Visualizations
 The project includes:
 
 Bar charts for player performance, Distribution plots for match results, Comparative charts for teams and outcomes
+
+https://github.com/aryansiddhu001-ui/IPL-data-analysis/blob/main/IPL%20data%20analysis.png
